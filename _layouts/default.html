@@ -36,7 +36,7 @@
 				<input type="text" name="q" id="search-input" placeholder="검색 / Search" autofocus>
 				<input type="submit" value="Search" style="display: none;">
 			</form>
-			<p>디폴트의 왼쪽</p>
+			<p>컨텐츠 상단</p>
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
 				<ul>
 					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
@@ -46,7 +46,7 @@
 				</ul>
 
 				<ul>
-					카테고리
+					카테고리 맞냐
 					{% assign grouped = site.docs | group_by: 'category' %}
 					{% for group in grouped %}
 						<li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
