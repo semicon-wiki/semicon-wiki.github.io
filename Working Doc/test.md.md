@@ -1,5 +1,3 @@
-
-
 ---
 title: 고덕 기술인
 category: 이바닥 경험
