@@ -1,8 +1,10 @@
 ---
-title: iOS
-category: Devices
+title: 복리후생
+category: benefits package
 order: 1
 ---
+
+ benefits package
 
 Use ChatApp on most of your Apple devices. Only the latest versions are supported.
 
