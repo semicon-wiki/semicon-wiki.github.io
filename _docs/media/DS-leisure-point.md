@@ -1,6 +1,6 @@
 ---
-title: Video
-category: Media
+title: DS여가포인트
+category: 삼린이를 위한 꿀팁들
 order: 2
 ---
 
