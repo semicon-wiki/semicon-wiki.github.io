@@ -1,6 +1,6 @@
 ---
 title: Documents
-category: Media
+category: 평택/고덕 기술인
 order: 3
 ---
 
