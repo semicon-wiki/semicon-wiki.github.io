@@ -1,6 +1,6 @@
 ---
 title: Phone
-category: 한글 카테고리
+category: 한글 카테고리Contact Syncing
 order: 2
 ---
 
@@ -16,3 +16,6 @@ To sync your contacts:
 4. Select some or all of your contacts
 
 ![](//placehold.it/800x600)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNDAxMTc2M119
+-->
