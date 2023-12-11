@@ -1,6 +1,6 @@
 ---
 title: Android
-category: Devices
+category: 협력사
 order: 2
 ---
 
