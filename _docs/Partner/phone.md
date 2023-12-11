@@ -1,6 +1,6 @@
 ---
 title: Phone
-category: 한글 카테고리
+category: 협력사/기술인을 위한 꿀팁들
 order: 2
 ---
 
