@@ -1,6 +1,6 @@
 ---
 title: Images
-category: Media
+category: 임직원 / 협력사 서비스 채널
 order: 1
 ---
 
