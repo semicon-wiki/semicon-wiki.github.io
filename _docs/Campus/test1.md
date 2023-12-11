@@ -1,6 +1,6 @@
 ---
 title: Test11
-category: Media
+category: 사업장/현장
 order: 4
 ---
 
