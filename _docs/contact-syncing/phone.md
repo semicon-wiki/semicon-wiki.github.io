@@ -1,6 +1,6 @@
 ---
 title: Phone
-category: 한글 카테고리Contact Syncing
+category: 한글 카테고리
 order: 2
 ---
 
