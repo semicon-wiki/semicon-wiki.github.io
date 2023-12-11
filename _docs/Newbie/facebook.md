@@ -1,6 +1,6 @@
 ---
 title: Facebook
-category: 한글 카테고리
+category: 삼린이를 위한 꿀팁들
 order: 1
 ---
 
