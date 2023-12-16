@@ -1,5 +1,5 @@
 ---
-title: 천안
+title: 천안사업장
 category: 사업장/현장
 order: 5
 ---

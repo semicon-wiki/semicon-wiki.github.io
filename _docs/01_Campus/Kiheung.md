@@ -1,5 +1,5 @@
 ---
-title: 기흥
+title: 기흥사업장
 category: 사업장/현장
 order: 1
 ---
