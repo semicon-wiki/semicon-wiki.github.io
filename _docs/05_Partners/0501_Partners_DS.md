@@ -1,5 +1,5 @@
 ---
-title: Android
+title: 협력사 지원/서비스
 category: 협력사
 order: 2
 ---
