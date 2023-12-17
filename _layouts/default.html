@@ -70,7 +70,7 @@
 				</ul>
 				-->
 			</nav>
-		
+		</header>
 		<section class="main">
 			<div class="page-header">
 				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
@@ -81,8 +81,7 @@
 				{{ content }}
 			</article>
 		</section>
-		</header>
-		
+
 		<script>
 			document.getElementById("open-nav").addEventListener("click", function () {
 				document.body.classList.toggle("nav-open");

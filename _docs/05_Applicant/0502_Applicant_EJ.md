@@ -1,7 +1,7 @@
 ---
-title: Documents
-category: 평택/고덕 기술인
-order: 3
+title: 경력/박사 채용
+category: 채용관련
+order: 2
 ---
 
 Share documents with your friends! Send work or school projects from your computer or phone.

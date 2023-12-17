@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: 협력사/기술인을 위한 꿀팁들
+title: 협력사/기술인 출입관련
+category: 꿀팁들
 order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Test11
-category: 사업장/현장
-order: 4
+title: 고덕 현장 근황
+category: 기술인
+order: 1
 ---
 
 # test

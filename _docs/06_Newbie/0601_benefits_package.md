@@ -1,6 +1,6 @@
 ---
 title: 복리후생
-category: benefits package
+category: 삼린이 정보
 order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 유용한 앱 목록
-category: 앱과 사이트들
+title: 유용한 앱들
+category: 유용한 앱 & 서비스
 order: 1
 published: true
 ---
