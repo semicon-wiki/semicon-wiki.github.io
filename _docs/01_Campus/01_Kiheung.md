@@ -4,7 +4,10 @@ category: 사업장/현장
 order: 1
 ---
 
-Share video to your friends! Send videos from your computer, phone, camera or YouTube.
+경기도 용인시 기흥구 
+
+
+기흥사업장은 Share video to your friends! Send videos from your computer, phone, camera or YouTube.
 
 To share a video:
 
@@ -15,3 +18,6 @@ To share a video:
 > Videos can use up a lot of bandwidth so be aware of your mobile data.
 
 ![](//placehold.it/800x600)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEzNzc2NDA1Ml19
+-->
