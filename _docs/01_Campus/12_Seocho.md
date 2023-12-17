@@ -1,7 +1,7 @@
 ---
 title: 서초사옥
 category: 사업장/현장
-order: 5
+order: 12
 ---
 
 Share video to your friends! Send videos from your computer, phone, camera or YouTube.

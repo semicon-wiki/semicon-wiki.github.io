@@ -1,7 +1,7 @@
 ---
 title: 미래기술캠퍼스
 category: 사업장/현장
-order: 5
+order: 9
 ---
 
 Share video to your friends! Send videos from your computer, phone, camera or YouTube.
