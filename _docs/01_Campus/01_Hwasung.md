@@ -8,10 +8,11 @@ order: 1
 
 이미지 출처: [삼성 공홈 사업장 소개 페이지](https://www.samsung.com/sec/aboutsamsung/company/divisions/)
 
-![캡션](https://images.samsung.com/is/image/samsung/p5/sec/aboutsamsung/2019/company/divisions/1126/samsung-sec-hwasung-office.jpg?$ORIGIN_JPG$)
+![이미지 출처: [삼성 공홈 사업장 소개 페이지](https://www.samsung.com/sec/aboutsamsung/company/divisions/)
+](https://images.samsung.com/is/image/samsung/p5/sec/aboutsamsung/2019/company/divisions/1126/samsung-sec-hwasung-office.jpg?$ORIGIN_JPG$)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTQ4MTE4NywxMDQ1NjQ4MTQ4XX0=
+eyJoaXN0b3J5IjpbMTg0ODQ2MTM3NCwxMDQ1NjQ4MTQ4XX0=
 -->
