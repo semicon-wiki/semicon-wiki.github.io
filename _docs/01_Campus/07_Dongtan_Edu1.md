@@ -1,7 +1,7 @@
 ---
 title: 동탄 에듀센터1
 category: 사업장/현장
-order: 6
+order: 7
 ---
 
 Share video to your friends! Send videos from your computer, phone, camera or YouTube.

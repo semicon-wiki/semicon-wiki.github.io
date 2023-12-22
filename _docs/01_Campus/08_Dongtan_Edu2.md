@@ -1,7 +1,7 @@
 ---
-title: 미래기술캠퍼스
+title: 동탄 에듀센터2
 category: 사업장/현장
-order: 9
+order: 8
 ---
 
 Share video to your friends! Send videos from your computer, phone, camera or YouTube.

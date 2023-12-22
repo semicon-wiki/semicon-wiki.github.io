@@ -1,5 +1,5 @@
 ---
-title: 서초 공유오피스
+title: 미래기술캠퍼스
 category: 사업장/현장
 order: 10
 ---
