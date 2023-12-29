@@ -2,7 +2,7 @@
 title: Welcome
 ---
 
-웰컴 페이지는 index.md This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
+에디터 적용 - 웰컴 페이지는 index.md This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
 **Edition** is perfect for documenting your product, application or service.
 It's populated with example content to give you some ideas.
 
