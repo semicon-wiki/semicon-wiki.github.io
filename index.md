@@ -4,8 +4,10 @@ title: Welcome
 
 웰컴 페이지는 index.md 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
+  
+에디터 적용 - 웰 컴 페이지는 index.md This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
 **Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+It's populated with example content to give you some ideas.  
 
 ChatApp is a fictional chat application for sending messages and media to others.
 Teams and friend groups would use ChatApp to stay up to date if it existed.
